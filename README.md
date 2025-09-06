@@ -135,7 +135,7 @@
         <latest-uploads></latest-uploads>
         <call-to-action></call-to-action>
         <!-- Add watermark element -->
-        <div class="watermark">Vincent Edits Website</div>
+        <div class="watermark">Vincent Edits ug Website</div>
         <!-- Add pop-up element -->
         <div class="pop-up">
             <h1>Category Selected!</h1>
